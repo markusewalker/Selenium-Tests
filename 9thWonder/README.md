@@ -5,4 +5,4 @@ Selenium WebDriver script linking to some of 9th Wonder's best instrumentals on 
 
 Once done, sit back and enjoy an hour of the 9th Wonder of the world...
 
-[![9th Wonder Best Instrumentals](https://img.youtube.com/vi/OTd_D7QC8jM&t=2245s.jpg)](https://www.youtube.com/watch?v=OTd_D7QC8jM&t=2245s)
+[![9th Wonder Best Instrumentals](https://img.youtube.com/vi/OTd_D7QC8jM&t=2245s/9th.png)](https://www.youtube.com/watch?v=OTd_D7QC8jM&t=2245s "9th Wonder Best Instrumentals")
