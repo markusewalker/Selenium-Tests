@@ -34,7 +34,7 @@ public class NinthWonderBestInstrumentals {
 		driver.get(url);
 	}
 	
-	@Test(priority=0, alwaysRun=true, description="Navgiate over to Youtbe and search for a video")
+	@Test(priority=0, alwaysRun=true, description="Navgiate over to Youtube and search for a video")
 	public void searchForVid() {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id=\'search\']")));
 		driver.getCurrentUrl();
