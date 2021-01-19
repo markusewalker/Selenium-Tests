@@ -1,3 +1,12 @@
+/*
+ * Created By: Markus Walker
+ * Date Modified: 1/18/2021
+ * 
+ * Description: Selenium script written in Java to look at the current stock price for the current stocks:
+ * 		S&P500, Dow Jones and Nasdaq. It will take screenshots of each of their daily summaries 
+ * 		and daily charts.
+ */
+
 package tests;
 
 import java.io.File;
