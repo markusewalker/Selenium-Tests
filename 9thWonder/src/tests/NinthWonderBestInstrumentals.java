@@ -1,3 +1,11 @@
+/*
+ * Created By: Markus Walker
+ * Date Modified: 1/18/2021
+ * 
+ * Description: Selenium script written in Java to head over to Youtube and select a 9th Wonder video of some
+ * 		of his best instrumentals.
+ */
+
 package tests;
 
 import java.util.concurrent.TimeUnit;
