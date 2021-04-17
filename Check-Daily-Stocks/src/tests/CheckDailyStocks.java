@@ -41,7 +41,7 @@ public class CheckDailyStocks {
 		options.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
 		
 		// BROWSER VARIABLE DECLARATION/INITIALIZATION SECTION
-		System.setProperty("webdriver.chrome.driver", "/home/markus/selenium/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
 		driver = new ChromeDriver(options);
 		wait = new WebDriverWait(driver,20);
 		keyboard = new Actions(driver);
